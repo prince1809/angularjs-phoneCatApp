@@ -1,0 +1,20 @@
+{
+  "name": "angularjs-phoneCatApp",
+  "version": "0.0.0",
+  "homepage": "https://github.com/prince1809/angularjs-phoneCatApp",
+  "authors": [
+    "prince1809 <prince18pat@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "angular": "~1.4.7"
+  }
+}
